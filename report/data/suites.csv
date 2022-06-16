@@ -1,0 +1,57 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jun 15 21:39:32 CST 2022","Wed Jun 15 21:39:33 CST 2022","804","testcase.operation.home","test_api","TestApi","","","test_01_login",""
+"broken","Wed Jun 15 19:49:51 CST 2022","Wed Jun 15 19:49:51 CST 2022","0","testcase.operation.home","test_api","","","","test_01_getActiveShop","
+    首页数据
+    :return:
+    "
+"passed","Wed Jun 15 22:53:36 CST 2022","Wed Jun 15 22:53:37 CST 2022","370","testcase.operation","test_getaccessToken","TestGetActiveShop","","","test_getLoginUser","
+        账户中心
+        :param operation_fixture:
+        :return:
+        "
+"passed","Thu Jun 16 17:46:26 CST 2022","Thu Jun 16 17:46:27 CST 2022","1055","testcase.operation","test_getNewShop","TestGetNewShop","","","test_getNewShop","
+        新增门店统计
+        :param operation_fixture:
+        :return:
+        "
+"passed","Sun Jun 12 16:04:04 CST 2022","Sun Jun 12 16:04:04 CST 2022","1","testcase.operation.home","test_api","TestApi","","","test_02_login",""
+"passed","Wed Jun 15 22:25:51 CST 2022","Wed Jun 15 22:25:52 CST 2022","777","testcase.operation","test_getaccessToken","TestApi","","","test_02_getActiveShop","
+        首页
+        :param operation_fixture:
+        :return:
+        "
+"passed","Sun Jun 12 17:03:38 CST 2022","Sun Jun 12 17:03:38 CST 2022","210","testcase.operation.home","test_api","TestApi","","","test_02_queryPageByCondition",""
+"passed","Wed Jun 15 21:49:33 CST 2022","Wed Jun 15 21:49:38 CST 2022","5087","testcase.operation.home","test_api","TestApi","","","test_02_getActiveShop","
+        首页
+        :param operation_fixture:
+        :return:
+        "
+"passed","Wed Jun 15 22:53:32 CST 2022","Wed Jun 15 22:53:36 CST 2022","4430","testcase.operation","test_getaccessToken","TestGetActiveShop","","","test_getActiveShop","
+        首页
+        :param operation_fixture:
+        :return:
+        "
+"passed","Wed Jun 15 20:11:08 CST 2022","Wed Jun 15 20:11:08 CST 2022","158","testcase.operation.home","test_api","TestApi","","","test_01_getActiveShop","
+        首页
+        :param operation_fixture:
+        :return:
+        "
+"broken","Tue Jun 14 22:07:05 CST 2022","Tue Jun 14 22:07:05 CST 2022","0","testcase.operation.home","test_api","","","","test_getActiveShop","
+    首页数据
+    :return:
+    "
+"broken","Wed Jun 15 22:04:56 CST 2022","Wed Jun 15 22:04:59 CST 2022","2354","testcase.operation","test_api","TestApi","","","test_02_getActiveShop","
+        首页
+        :param operation_fixture:
+        :return:
+        "
+"passed","Thu Jun 16 17:46:21 CST 2022","Thu Jun 16 17:46:25 CST 2022","4439","testcase.operation","test_getActiveShop","TestGetActiveShop","","","test_getActiveShop","
+        首页
+        :param operation_fixture:
+        :return:
+        "
+"passed","Thu Jun 16 17:46:25 CST 2022","Thu Jun 16 17:46:26 CST 2022","963","testcase.operation","test_getLoginUser","TestGetLoginUser","","","test_getLoginUser","
+        账户中心
+        :param operation_fixture:
+        :return:
+        "
