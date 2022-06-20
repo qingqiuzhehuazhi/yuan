@@ -13,7 +13,7 @@ allure-pytest
 # python（Terminal）命令：
 pip install + 文件名
 # 下载安装allure工具
-# 下载地址：http://allure.qatools.ru/
+下载地址：http://allure.qatools.ru/
 # 查看是否安装成功命令
 allure --version
 # 以下提示报错：
